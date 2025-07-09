@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://tesuto-san.github.io/promiki",
+  "display": "standalone"
+}
